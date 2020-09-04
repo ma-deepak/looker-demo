@@ -1,4 +1,4 @@
-- dashboard: business_stats
+- dashboard: business_stats123
   title: Business Stats
   layout: newspaper
   elements:
