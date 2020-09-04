@@ -1,5 +1,5 @@
-- dashboard: business_stats123
-  title: Business Stats
+- dashboard: dk
+  title: dk Stats
   layout: newspaper
   elements:
   - name: Average Sale Price
