@@ -12,5 +12,6 @@ persist_with: ecommerce_default_datagroup
 
 explore: sales {}
 explore: categories {}
-
+explore: products {}
+explore: product_list {}
 # explore: connection_reg_r3 {}
